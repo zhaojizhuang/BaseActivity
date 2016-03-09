@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="title_backgroud">#fafafa</color>
+          <color name="title_text_color">#333333</color>
+          <color name="title_bottom_line_color">#dbdbdb</color>
+            <color name="title_right_text_color">#64b2fa</color>
+</resources>
